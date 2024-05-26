@@ -1,5 +1,5 @@
 - Hi, I’m @ZuKomaDEVYT
-- I’m currently learning C#
+- I’m currently learning C# and C++
 - Pronouns: He/Him
 
 <!---
