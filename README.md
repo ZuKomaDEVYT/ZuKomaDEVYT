@@ -1,5 +1,5 @@
 - Hi, I’m @ZuKomaDEVYT
-- I’m currently learning C# and C++
+- I’m currently learning Unity and UnrealEngine
 - Pronouns: He/Him
 
 <!---
